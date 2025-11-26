@@ -102,6 +102,7 @@ public class BankAccount {
     }
 
     /**
+     * Nice to have
      * Transfers money to another account
      * @param targetAccount the account to transfer to
      * @param amount the amount to transfer
